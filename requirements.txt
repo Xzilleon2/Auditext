@@ -1,0 +1,8 @@
+streamlit
+fastapi
+uvicorn
+python-multipart
+requests
+torch
+transformers
+accelerate
